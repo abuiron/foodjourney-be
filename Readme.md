@@ -3,7 +3,7 @@
 Welcome to the Food Journey App Backend! This repository contains the backend code for a recipe management application.
 
 ## Live Link
- -[Food Journey Web App](https://food-journey.netlify.app)
+ -[Food Journey Web App](https://foodjourney.netlify.app)
 
  ## Frontend Repo Link
   -[Frontend Repo](https://github.com/abuiron/foodjourney-fe)
