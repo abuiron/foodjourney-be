@@ -1,9 +1,18 @@
-# Kitchen Recipe App Backend
+# Food Journey App Backend
 
-Welcome to the Kitchen Recipe App Backend! This repository contains the backend code for a recipe management application.
+Welcome to the Food Journey App Backend! This repository contains the backend code for a recipe management application.
 
-## Front-end Repo
- - [Front end repo](https://github.com/abuiron/)
+## Live Link
+ -[Food Journey Web App](https://food-journey.netlify.app)
+
+ ## Frontend Repo Link
+  -[Frontend Repo](https://github.com/abuiron/foodjourney-fe)
+
+<!-- ## Login Page
+ ![loginpage](https://github.com/abuiron/foodjourney-fe/blob/main/public/login.png?raw=true) -->
+
+## Home Page
+![homepage](https://github.com/abuiron/foodjourney-fe/blob/main/public/assets/front.png?raw=true)
 
 ## Description
 
